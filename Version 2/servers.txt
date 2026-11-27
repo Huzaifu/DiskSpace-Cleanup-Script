@@ -1,0 +1,11 @@
+# One server per line. Lines starting with # are ignored.
+# SQL servers:
+ECV1032
+# ECE Lab machines seen in your RDP list:
+ece-v1-025
+ece-v1-031
+ece-v1-032
+ece-v1-033
+ece-v1-034
+# ECE Lab domain controllers (add real names):
+# DC01
